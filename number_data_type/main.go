@@ -29,4 +29,7 @@ func main(){
 	fmt.Println("Dua = " , 2)
 	fmt.Println("Tiga koma lima = " , 3.5)
 	fmt.Println( 3.5 + 2)
+
+	var bilanganDesimal = 2.0
+	fmt.Println(bilanganDesimal)
 }
